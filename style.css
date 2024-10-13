@@ -11,11 +11,13 @@ nav{
     justify-content: space-around;
     padding-top: 10px;
     font-weight: 600;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 nav .first{
     width: 210px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding: 10px;
     align-items: center;
 }
